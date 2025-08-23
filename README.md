@@ -1,1 +1,1 @@
-# Clientes-Potenciales
+El objetivo principal del proyecto es establecer una correlación significativa entre las características y el comportamiento de una persona que llega a FMT estudio. (un lead o cliente potencial) y la probabilidad de que se convierta en un cliente real (una conversión). Esto permitirá optimizar los procesos de marketing y ventas, enfocando recursos en aquellos leads con mayor potencial y mejorando estrategias para aumentar las tasas de conversión.
